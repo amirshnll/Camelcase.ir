@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle>
+  <domain name="esotera">
+    <project>
+      <source>
+        <exclude>
+            <directory>cryout</directory>
+        </exclude>
+      </source>
+      <target>
+        <directory>languages</directory>
+      </target>
+      <template>
+        <file>languages/esotera.pot</file>
+      </template>
+    </project>
+  </domain>
+  <domain name="cryout">
+    <project name="Framework" slug="cryout">
+      <source>
+        <directory>cryout</directory>
+      </source>
+      <target>
+        <directory>cryout/languages</directory>
+      </target>
+      <template>
+        <file>cryout/languages/cryout.pot</file>
+      </template>
+    </project>
+  </domain>
+</bundle>

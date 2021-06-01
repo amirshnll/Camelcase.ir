@@ -1,0 +1,26 @@
+<wpml-config>
+    <admin-texts>
+        <key name="esotera_settings">
+			<key name="esotera_lpposts_more" />
+			<key name="esotera_lpslidershortcode" />
+			<key name="esotera_lpslidertitle" />
+			<key name="esotera_lpslidertext" />
+			<key name="esotera_lpslidercta1text" />
+			<key name="esotera_lpslidercta1link" />
+			<key name="esotera_lpslidercta2text" />
+			<key name="esotera_lpslidercta2link" />
+			<key name="esotera_lpblockmaintitle1" />
+			<key name="esotera_lpblockmaindesc1" />
+			<key name="esotera_lpblocksreadmore1" />
+			<key name="esotera_lpboxmaintitle1" />
+			<key name="esotera_lpboxmaintitle2" />
+			<key name="esotera_lpboxmaindesc1" />
+			<key name="esotera_lpboxmaindesc2" />
+			<key name="esotera_lpboxreadmore1" />
+			<key name="esotera_lpboxreadmore2" />
+			<key name="esotera_copyright" />
+			<key name="esotera_excerptdots" />
+			<key name="esotera_excerptcont" />
+        </key>
+    </admin-texts>
+</wpml-config>

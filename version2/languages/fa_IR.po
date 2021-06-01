@@ -1,0 +1,1732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: esotera\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-12 19:02+0430\n"
+"PO-Revision-Date: 2019-07-13 00:45+0430\n"
+"Last-Translator: \n"
+"Language-Team: https://yotawp.com\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. $text_author
+#: 404.php:15 includes/core.php:339
+msgid "Not Found"
+msgstr "یافت نشد"
+
+#: 404.php:16
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"با عرض پوزش، اما صفحه ای که درخواست کردید یافت نشد شاید جستجو بتواند کمک کند."
+
+#: sidebar-right.php:18
+msgid "Right Sidebar"
+msgstr "ستون کناری راست"
+
+#: sidebar-right.php:21 sidebar-left.php:21
+#, php-format
+msgid ""
+"You currently have no widgets set in this sidebar. You can add widgets via "
+"the <a href=\"%s\">Dashboard</a>."
+msgstr ""
+"شما در حال حاضر هیچ ابزارکی در این ستون کناری ندارید. شما می توانید ابزارک "
+"ها را از طریق <a href=\"%s\">پیشخوان</a>.اضافه کنید."
+
+#: sidebar-right.php:22 sidebar-left.php:22
+#, php-format
+msgid ""
+"To hide this sidebar, switch to a different Layout via the <a href=\"%s"
+"\">Theme Customizations</a>."
+msgstr ""
+"برای مخفی کردن این ستون کناری، از طریق<a href=\"%s\">سفارشی سازی</a>.، یک "
+"طرح دیگر را انتخاب کنید."
+
+#: header.php:36
+msgid "Top Menu"
+msgstr "فهرست بالایی"
+
+#: header.php:62
+msgid "Primary Menu"
+msgstr "فهرست اصلی"
+
+#: sidebar-left.php:18 includes/setup.php:58
+msgid "Left Sidebar"
+msgstr "ستون کناری چپ"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای :  %s"
+
+#: single.php:43 content/content-page.php:32 content/content.php:40
+msgid "Pages:"
+msgstr "صفحات: "
+
+#: single.php:61
+msgid "Previous Post"
+msgstr "نوشته قبلی"
+
+#: single.php:62
+msgid "Next Post"
+msgstr "نوشته بعدی"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "جستجو برای :"
+
+#: searchform.php:12 searchform.php:14 includes/core.php:357
+msgid "Search"
+msgstr "جستجو"
+
+#: image.php:27
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "اندازه‌ی کامل"
+
+#: image.php:31
+msgid "pixels"
+msgstr "پیکسل"
+
+#: image.php:38
+msgid "Published in"
+msgstr "منتشر شده در"
+
+#: image.php:65
+msgid "Previous image"
+msgstr "تصویر قبلی"
+
+#: image.php:66
+msgid "Next image"
+msgstr "تصویر بعدی"
+
+#: comments.php:21 includes/comments.php:115 includes/comments.php:116
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "دیدگاه ها بسته شده است."
+
+#: content/author-bio.php:30
+msgid "View all posts by "
+msgstr "مشاهده همه نوشته های ارسال شده توسط"
+
+#: content/content-notfound.php:10
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: content/content-notfound.php:12
+#, php-format
+msgid "No search results for: <em>%s</em>"
+msgstr "نتایج جستجو برای :  %s"
+
+#: admin/main.php:62
+msgid "Reset Esotera Settings to Defaults?"
+msgstr "بازنشانی تنظیمات ایسوترا به پیش فرض؟"
+
+#: admin/main.php:70 admin/main.php:103
+msgid "Esotera Theme"
+msgstr "قالب ایسوترا "
+
+#: admin/main.php:79
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "با عرض پوزش، شما اجازه دسترسی به این صفحه را ندارید"
+
+#: admin/main.php:88
+msgid "Esotera settings loaded successfully."
+msgstr "تنظیمات Esotera با موفقیت بارگذاری شد"
+
+#: admin/main.php:96
+msgid "Esotera settings have been reset successfully."
+msgstr "تنظیمات Esotera با موفقیت بازنشانی شد."
+
+#: admin/main.php:110
+msgid "Read the Docs"
+msgstr "خواندن مستندات"
+
+#: admin/main.php:111
+msgid "Browse the Forum"
+msgstr "مرور انجمن"
+
+#: admin/main.php:112
+msgid "Priority Support"
+msgstr "اولویت پشتیبانی"
+
+#: admin/main.php:126
+#, php-format
+msgid "Customize %s"
+msgstr "شخصی سازی  %s"
+
+#: admin/main.php:132
+msgid "Manage Theme Settings"
+msgstr "مدیریت تنظیمات قالب"
+
+#: admin/main.php:136
+msgid "Reset to Defaults"
+msgstr "بازنشانی به پیش فرض؟"
+
+#: admin/main.php:147
+msgid "Upgrade to Plus"
+msgstr "ارتقاء به پلاس"
+
+#: admin/main.php:149
+#, php-format
+msgid ""
+"Find out what features you're missing out on and how the Plus version of "
+"%1$s can improve your site."
+msgstr ""
+"مشاهده ویژگی های نسخه پلاس %1$s . ببینید که چطور سایت شما را بهبود میبخشد."
+
+#: admin/main.php:157
+msgid "Theme Updates"
+msgstr "بروزرسانی قالب"
+
+#: admin/options.php:193
+msgid "Site Identity"
+msgstr "هویت سایت"
+
+#: admin/options.php:194
+msgid "Layout"
+msgstr "طرح بندی"
+
+#: admin/options.php:195 admin/options.php:237 admin/options.php:2806
+msgid "Header"
+msgstr "سربرگ"
+
+#: admin/options.php:196 admin/options.php:239 admin/options.php:530
+msgid "Landing Page"
+msgstr "صفحه فرود"
+
+#: admin/options.php:197
+msgid "General"
+msgstr "عمومی"
+
+#: admin/options.php:198
+msgid "Colors"
+msgstr "رنگ ها"
+
+#: admin/options.php:199
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: admin/options.php:200
+msgid "Post Information"
+msgstr "اطلاعات نوشته"
+
+#: admin/options.php:209
+msgid "General Layout"
+msgstr "طرح بندی عمومی"
+
+#: admin/options.php:210
+msgid "Other Layouts"
+msgstr "دیگر طرح بندی ها"
+
+#: admin/options.php:213
+msgid "Menu"
+msgstr "فهرست"
+
+#: admin/options.php:214 admin/options.php:236
+msgid "Content"
+msgstr "محتوا"
+
+#: admin/options.php:216
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: admin/options.php:217 admin/options.php:564
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: admin/options.php:218
+msgid "Featured Icon Blocks"
+msgstr "بلوک های آیکون شاخص"
+
+#: admin/options.php:219
+msgid "Featured Boxes"
+msgstr "جعبه های شاخص"
+
+#: admin/options.php:220
+msgid "Featured Boxes 2"
+msgstr "جعبه های شاخص 2"
+
+#: admin/options.php:221 admin/options.php:1125
+msgid "Text Areas"
+msgstr "ناحیه متن"
+
+#: admin/options.php:222 admin/options.php:546 admin/options.php:1131
+msgid "Featured Content"
+msgstr "محتوای شاخص"
+
+#: admin/options.php:224 admin/options.php:1140
+msgid "General Font"
+msgstr "فونت های عمومی"
+
+#: admin/options.php:225
+msgid "Header Fonts"
+msgstr "فونت های سربرگ"
+
+#: admin/options.php:226
+msgid "Content Fonts"
+msgstr "فونت های محتوا"
+
+#: admin/options.php:227
+msgid "Widget Fonts"
+msgstr "فونت های ابزارک"
+
+#: admin/options.php:228
+msgid "Formatting"
+msgstr "فرمت بندی"
+
+#: admin/options.php:230
+msgid "Structure"
+msgstr "ساختار"
+
+#: admin/options.php:231
+msgid "Decorations"
+msgstr "دکوراسیون"
+
+#: admin/options.php:232
+msgid "Content Images"
+msgstr "تصاویر محتوا"
+
+#: admin/options.php:233
+msgid "Search Box Locations"
+msgstr "موقعیت جعبه جستجو"
+
+#: admin/options.php:234 includes/setup.php:60
+msgid "Social Icons"
+msgstr "آیکون شبکه های اجتماعی "
+
+#: admin/options.php:238 admin/options.php:2784
+msgid "Footer"
+msgstr "پاورقی"
+
+#: admin/options.php:241
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: admin/options.php:242
+msgid "Blog Metas"
+msgstr "متاهای وبلاگ"
+
+#: admin/options.php:243
+msgid "Single Metas"
+msgstr "متاهای تکی"
+
+#: admin/options.php:244
+msgid "Excerpts"
+msgstr "خلاصه"
+
+#: admin/options.php:245 includes/comments.php:92 includes/comments.php:112
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+#: admin/options.php:247
+msgid "Miscellaneous"
+msgstr "متفرقه"
+
+#: admin/options.php:267
+msgid "Main Layout"
+msgstr "طرح بندی اصلی"
+
+#: admin/options.php:270
+msgid "One column (no sidebars)"
+msgstr "یک ستونه (بدون ستون کناری)"
+
+#: admin/options.php:274
+msgid "Two columns, sidebar on the right"
+msgstr "دو ستونه، ستون کناری در راست"
+
+#: admin/options.php:278
+msgid "Two columns, sidebar on the left"
+msgstr "دو ستونه، ستون کناری در چپ"
+
+#: admin/options.php:282
+msgid "Three columns, sidebars on the right"
+msgstr "سه ستونه، ستون کناری در راست"
+
+#: admin/options.php:286
+msgid "Three columns, sidebars on the left"
+msgstr "سه ستونه، ستون کناری در چپ"
+
+#: admin/options.php:290
+msgid "Three columns, one sidebar on each side"
+msgstr "سه ستونه، یک ستون کناری در هر طرف"
+
+#: admin/options.php:299
+msgid "Theme alignment"
+msgstr "ترازبندی قالب"
+
+#: admin/options.php:301 admin/options.php:422
+msgid "Wide"
+msgstr "عریض"
+
+#: admin/options.php:301 admin/options.php:422 admin/options.php:855
+msgid "Boxed"
+msgstr "جعبه ای"
+
+#: admin/options.php:307
+msgid "Site Width"
+msgstr "عرض سایت"
+
+#: admin/options.php:314
+msgid "Left Sidebar Width"
+msgstr "عرض ستون کناری چپ"
+
+#: admin/options.php:321
+msgid "Right Sidebar Width"
+msgstr "عرض ستون کناری راست"
+
+#: admin/options.php:330
+msgid "Posts Layout"
+msgstr "طرح بندی نوشته ها"
+
+#: admin/options.php:333
+msgid "One column"
+msgstr "یک ستونه"
+
+#: admin/options.php:337
+msgid "Two columns"
+msgstr "دو ستونه"
+
+#: admin/options.php:341
+msgid "Three columns"
+msgstr "سه ستونه"
+
+#: admin/options.php:350
+msgid "Post/page padding"
+msgstr "فاصله داخلی نوشته/برگه"
+
+#: admin/options.php:361
+msgid "Footer Widgets Columns"
+msgstr "ستون های ابزارک های پاورقی"
+
+#: admin/options.php:364
+msgid "All in a row"
+msgstr "همه در یک ردیف"
+
+#: admin/options.php:365
+msgid "1 Column"
+msgstr "1 ستونه"
+
+#: admin/options.php:366
+msgid "2 Columns"
+msgstr "۲ ستونه"
+
+#: admin/options.php:367
+msgid "3 Columns"
+msgstr "۳ ستونه"
+
+#: admin/options.php:368
+msgid "4 Columns"
+msgstr "4 ستونه"
+
+#: admin/options.php:376 admin/options.php:1610 admin/options.php:1902
+msgid "Default"
+msgstr "پیش‌ فرض"
+
+#: admin/options.php:376 admin/options.php:430 admin/options.php:522
+#: admin/options.php:1610
+msgid "Center"
+msgstr "مرکز"
+
+#: admin/options.php:377
+msgid "Footer Widgets Alignment"
+msgstr "ترازبندی ابزارک های پاورقی"
+
+#: admin/options.php:386
+msgid ""
+"Fine tune the visibility of these elements in the theme's Header options"
+msgstr "تنظیم دقیق این عناصر را در تنظیمات سربرگ قالب انجام دهید"
+
+#: admin/options.php:397
+msgid "Fixed Menu"
+msgstr "منو ثابت"
+
+#: admin/options.php:407
+msgid "Menu Height"
+msgstr "ارتفاع منو"
+
+#: admin/options.php:414
+msgid "Normal"
+msgstr "معمولی "
+
+#: admin/options.php:414
+msgid "Over header image"
+msgstr "تصویر بالا سربرگ "
+
+#: admin/options.php:415
+msgid "Menu Position"
+msgstr "موقیعت منو"
+
+#: admin/options.php:423
+msgid "Menu Layout"
+msgstr "طرح بندی منو"
+
+#: admin/options.php:430 admin/options.php:522 admin/options.php:1610
+msgid "Left"
+msgstr "چپ "
+
+#: admin/options.php:430 admin/options.php:522 admin/options.php:1610
+msgid "Right"
+msgstr "راست"
+
+#: admin/options.php:431
+msgid "Menu Alignment"
+msgstr "ترازبندی منو"
+
+#: admin/options.php:437
+msgid "Site Header Content"
+msgstr "محتوا سربرگ سایت"
+
+#: admin/options.php:439 admin/options.php:1199
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+#: admin/options.php:439
+msgid "Logo"
+msgstr "لوگو"
+
+#: admin/options.php:439
+msgid "Logo & Site Title"
+msgstr "لوگو و عنوان سایت"
+
+#: admin/options.php:439
+msgid "Empty"
+msgstr "خالی"
+
+#: admin/options.php:445
+msgid "Show Tagline"
+msgstr "معرفی کوتاه"
+
+#: admin/options.php:453
+msgid ""
+"Edit the site's title, tagline and logo from WordPress' Site Identity panel."
+msgstr "عنوان، برچسب و لوگو سایت را از پنل هویت سایت وردپرس ویرایش کنید."
+
+#: admin/options.php:465
+msgid "Header Image Height"
+msgstr "ارتفاع تصویر سربرگ"
+
+#: admin/options.php:473 admin/options.php:1952 admin/options.php:1977
+msgid "Changing this value may require to recreate your thumbnails."
+msgstr ""
+"تغییر دادن این مقدار ممکن است نیاز به بازنویسی تصاویر بندانگشتی داشته باشد."
+
+#: admin/options.php:480 admin/options.php:1959
+msgid "Cropped"
+msgstr "برش خورده"
+
+#: admin/options.php:480 admin/options.php:1959
+msgid "Contained"
+msgstr "مشمول"
+
+#: admin/options.php:481
+msgid "Header Image Behaviour"
+msgstr "رفتار تصویر سربرگ"
+
+#: admin/options.php:491 admin/options.php:502
+msgid "Header Image Overlap"
+msgstr "همپوشانی تصویر سربرگ"
+
+#: admin/options.php:513
+msgid "Header Widget Width"
+msgstr "ارتفاع ابزارک سربرگ"
+
+#: admin/options.php:520
+msgid "Header Widget Alignment"
+msgstr "ترازبندی ابزارک سربرگ"
+
+#: admin/options.php:532
+msgid "Enabled"
+msgstr "فعال شد."
+
+#: admin/options.php:532
+msgid "Disabled (use WordPress homepage)"
+msgstr "غیرفعال شده (استفاده در صفحه اصلی وردپرس)"
+
+#: admin/options.php:540
+#, php-format
+msgid ""
+"To activate the Landing Page, make sure to set the WordPress <strong>Front "
+"Page displays</strong> option to %s"
+msgstr ""
+"برای فعال کردن صفحه فرود، مطمئن شوید گزینه <strong>نمایش صفحه ظاهر</strong> "
+"را به %s تنظیم کرده اید"
+
+#: admin/options.php:540
+msgid "use a static page"
+msgstr "استفاده از یک صفحه ثابت"
+
+#: admin/options.php:548
+msgid "Static Page"
+msgstr "صفحه ثابت"
+
+#: admin/options.php:548
+msgid "Posts"
+msgstr "نوشته‌ها"
+
+#: admin/options.php:548 admin/options.php:571 admin/options.php:679
+#: admin/options.php:715 admin/options.php:716 admin/options.php:734
+#: admin/options.php:735 admin/options.php:753 admin/options.php:754
+#: admin/options.php:772 admin/options.php:773 admin/options.php:803
+#: admin/options.php:804 admin/options.php:905 admin/options.php:906
+#: admin/options.php:913 admin/options.php:914 admin/options.php:921
+#: admin/options.php:922 admin/options.php:929 admin/options.php:930
+#: admin/options.php:1658
+msgid "Disabled"
+msgstr "غیرفعال شد"
+
+#: admin/options.php:555
+msgid "More Posts Label"
+msgstr "لیبل موارد بیشتر"
+
+#: admin/options.php:567 admin/options.php:599
+msgid "Serious Slider"
+msgstr "اسلایدر Serious"
+
+#: admin/options.php:568
+msgid "Use Shortcode"
+msgstr "استفاده از شورتکد"
+
+#: admin/options.php:569
+msgid "Static Image"
+msgstr "تصویر ثابت"
+
+#: admin/options.php:570
+msgid "Header Image"
+msgstr "تصویر سربرگ"
+
+#: admin/options.php:573
+#, php-format
+msgid ""
+"To create an advanced slider, use our <a href='%s' target='_blank'>Serious "
+"Slider</a> plugin or any other slider plugin."
+msgstr ""
+"برای ایجاد یک اسلایدر پیشرفته، از پلاگین <a href='%s' "
+"target='_blank'>اسلایدر Serious  </a> ما یا هر پلاگین اسلایدر دیگری استفاده "
+"کنید."
+
+#: admin/options.php:578
+msgid "Slider Image"
+msgstr "تصویر اسلایدر"
+
+#: admin/options.php:579
+msgid "The default image can be replaced by setting a new static image."
+msgstr "تصویر پیش فرض را می توان با تنظیم یک تصویر استاتیک جدید جایگزین کرد."
+
+#: admin/options.php:585
+msgid "Slider Link"
+msgstr "لینک اسلایدر"
+
+#: admin/options.php:592
+msgid "Shortcode"
+msgstr "شورتکد"
+
+#: admin/options.php:593
+msgid ""
+"Enter shortcode provided by slider plugin. The plugin will be responsible "
+"for the slider's appearance."
+msgstr ""
+"شورتکد ارائه شده توسط پلاگین اسلایدر را وارد کنید. پلاگین مسئول نمایش "
+"اسلایدر خواهد بود."
+
+#: admin/options.php:601
+msgid " - Please install, activate or update Serious Slider plugin - "
+msgstr "- لطفا افزونه اسلایدر Seriousرا نصب، فعال یا به روز رسانی کنید -"
+
+#: admin/options.php:601
+msgid " - No sliders defined - "
+msgstr "- هیچ اسلایدری تعریف نشده است -"
+
+#: admin/options.php:602
+msgid ""
+"Select the desired slider from the list. Sliders can be administered in the "
+"dashboard."
+msgstr ""
+"اسلایدر دلخواه را از لیست انتخاب کنید. اسلایدر را می توان در پیشخوان مدیریت "
+"کرد."
+
+#: admin/options.php:608
+msgid "Slider Caption"
+msgstr "عنوان اسلایدر"
+
+#: admin/options.php:610
+msgid "Title"
+msgstr "عنوان "
+
+#: admin/options.php:618 admin/options.php:626 admin/options.php:642
+#: admin/options.php:1040
+msgid "Text"
+msgstr "متن"
+
+#: admin/options.php:624 admin/options.php:640
+msgid "CTA Button"
+msgstr "دکمه CTA"
+
+#: admin/options.php:634 admin/options.php:650
+msgid "Link"
+msgstr "لینک"
+
+#: admin/options.php:658 admin/options.php:783
+msgid "Section Title"
+msgstr "عنوان بخش"
+
+#: admin/options.php:665 admin/options.php:790
+msgid "Section Description"
+msgstr "توضیحات بخش"
+
+#: admin/options.php:677
+msgid "Blocks Content"
+msgstr "بلوک های محتوا"
+
+#: admin/options.php:679
+msgid "No Text"
+msgstr "بدون متن"
+
+#: admin/options.php:679 admin/options.php:1839 admin/options.php:1855
+msgid "Excerpt"
+msgstr "چکیده"
+
+#: admin/options.php:679
+msgid "Full Content"
+msgstr "محتوا کامل"
+
+#: admin/options.php:686 admin/options.php:885
+msgid "Read More Button"
+msgstr "دکمه بیشتر بخوانید"
+
+#: admin/options.php:687
+msgid "Configure the 'Read More' link text."
+msgstr "پیکربندی لینک متن \"بیشتر بخوانید\""
+
+#: admin/options.php:693
+msgid "Make icons clickable (linking to their respective pages)."
+msgstr "آیکون ها قابل کلیک را بسازید (لینک به صفحات مربوطه خود)."
+
+#: admin/options.php:705 admin/options.php:724 admin/options.php:743
+#: admin/options.php:762
+#, php-format
+msgid "Block %d"
+msgstr "بلوک %d"
+
+#: admin/options.php:802
+msgid "Boxes Content"
+msgstr "جعبه های محتوا"
+
+#: admin/options.php:803 admin/options.php:804
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+#: admin/options.php:818
+msgid "Number of Boxes"
+msgstr "تعداد جعبه ها"
+
+#: admin/options.php:825
+msgid "Boxes Per Row"
+msgstr "جعبه ها در هر ردیف"
+
+#: admin/options.php:841
+msgid "Box Height"
+msgstr "ارتفاع جعبه"
+
+#: admin/options.php:842
+msgid ""
+"The width is a percentage dependent on total site width and number of "
+"columns per row."
+msgstr "عرض یک درصد بستگی به عرض کل سایت و تعداد ستون ها در هر ردیف دارد."
+
+#: admin/options.php:853
+msgid "Box Layout"
+msgstr "طرح بندی جعبه ای"
+
+#: admin/options.php:855
+msgid "Full width"
+msgstr "تمام عرض"
+
+#: admin/options.php:862
+msgid "Box Stacking"
+msgstr "پشته سازی جعبه"
+
+#: admin/options.php:864
+msgid "Joined"
+msgstr "عضویت"
+
+#: admin/options.php:864
+msgid "Apart"
+msgstr "Apart"
+
+#: admin/options.php:871
+msgid "Box Appearance"
+msgstr "نمایش جعبه"
+
+#: admin/options.php:873
+msgid "Animated"
+msgstr "متحرک"
+
+#: admin/options.php:873 admin/options.php:1642
+msgid "Static"
+msgstr "ثابت"
+
+#: admin/options.php:895
+msgid "Content Length (words)"
+msgstr "طول محتوا (کلمه)"
+
+#: admin/options.php:904 admin/options.php:912 admin/options.php:920
+#: admin/options.php:928
+#, php-format
+msgid "Text Area %d"
+msgstr "ناحیه متن  %d"
+
+#: admin/options.php:931
+msgid ""
+"<br><br>Page properties that will be used:<br>- page title as text "
+"title<br>- page content as text content<br>- page featured image as text "
+"area background image"
+msgstr ""
+"<br> <br> تنظیمات صفحه ای که استفاده می شود: <br> - عنوان صفحه به عنوان متن "
+"عنوان <br> - محتوای صفحه به عنوان محتوای متن <br> -  تصویر شاخص صفحه به "
+"عنوان تصویر پس زمینه ناحیه متن"
+
+#: admin/options.php:940
+msgid "Site Background"
+msgstr "پس زمینه سایت"
+
+#: admin/options.php:946 includes/setup.php:154
+msgid "Site Text"
+msgstr "متن سایت"
+
+#: admin/options.php:952
+msgid "Content Titles"
+msgstr "عناوین جعبه"
+
+#: admin/options.php:958 includes/setup.php:149
+msgid "Content Headings"
+msgstr "سربرگ های محتوا"
+
+#: admin/options.php:964 includes/setup.php:159
+msgid "Content Background"
+msgstr "پس زمینه محتوا"
+
+#: admin/options.php:970
+msgid "Left Sidebar Background"
+msgstr "پس زمینه ستون کناری چپ"
+
+#: admin/options.php:976
+msgid "Right Sidebar Background"
+msgstr "پس زمینه ستون کناری چپ"
+
+#: admin/options.php:986
+msgid "Primary Accent"
+msgstr ""
+
+#: admin/options.php:992
+msgid "Secondary Accent"
+msgstr ""
+
+#: admin/options.php:999
+msgid "Header Background"
+msgstr "پس زمینه سربرگ"
+
+#: admin/options.php:1005
+msgid "Menu Text"
+msgstr "متن منو"
+
+#: admin/options.php:1011
+msgid "Submenu Text"
+msgstr "متن زیرمنو"
+
+#: admin/options.php:1017
+msgid "Submenu Background"
+msgstr "پس زمینه زیرمنو"
+
+#: admin/options.php:1023
+msgid "Active Item"
+msgstr "آیتم فعال"
+
+#: admin/options.php:1046 admin/options.php:1062
+#, php-format
+msgid "Background %s"
+msgstr "پس زمینه %s"
+
+#: admin/options.php:1056 admin/options.php:1072
+#, php-format
+msgid "Background %s Position"
+msgstr "موقعیت پس زمینه %s"
+
+#: admin/options.php:1082
+msgid "Angle"
+msgstr "زاویه"
+
+#: admin/options.php:1093
+msgid "Opacity"
+msgstr "شفافیت"
+
+#: admin/options.php:1100
+msgid "Footer Background"
+msgstr "پس زمینه پاورقی"
+
+#: admin/options.php:1106
+msgid "Footer Text"
+msgstr "متن پاورقی"
+
+#: admin/options.php:1113
+msgid "Blocks"
+msgstr "بلوک ها"
+
+#: admin/options.php:1119
+msgid "Boxes"
+msgstr "جعبه ها"
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "100 thin"
+msgstr ""
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "200 extra-light"
+msgstr ""
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "300 ligher"
+msgstr ""
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "400 regular"
+msgstr ""
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "500 medium"
+msgstr ""
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "600 semi-bold"
+msgstr ""
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "700 bold"
+msgstr ""
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "800 extra-bold"
+msgstr ""
+
+#: admin/options.php:1156 admin/options.php:1214 admin/options.php:1256
+#: admin/options.php:1295 admin/options.php:1351 admin/options.php:1396
+#: admin/options.php:1438 admin/options.php:1480 admin/options.php:1529
+#: admin/options.php:1571
+msgid "900 black"
+msgstr ""
+
+#: admin/options.php:1164 admin/options.php:1222 admin/options.php:1264
+#: admin/options.php:1303 admin/options.php:1359 admin/options.php:1404
+#: admin/options.php:1446 admin/options.php:1488 admin/options.php:1537
+#: admin/options.php:1579 admin/options.php:1691
+msgid "None"
+msgstr "هیچکدام"
+
+#: admin/options.php:1164 admin/options.php:1222 admin/options.php:1264
+#: admin/options.php:1303 admin/options.php:1359 admin/options.php:1404
+#: admin/options.php:1446 admin/options.php:1488 admin/options.php:1537
+#: admin/options.php:1579
+msgid "Capitalize"
+msgstr "Capitalize"
+
+#: admin/options.php:1164 admin/options.php:1222 admin/options.php:1264
+#: admin/options.php:1303 admin/options.php:1359 admin/options.php:1404
+#: admin/options.php:1446 admin/options.php:1488 admin/options.php:1537
+#: admin/options.php:1579
+msgid "Uppercase"
+msgstr "حروف بزرگ"
+
+#: admin/options.php:1164 admin/options.php:1222 admin/options.php:1264
+#: admin/options.php:1303 admin/options.php:1359 admin/options.php:1404
+#: admin/options.php:1446 admin/options.php:1488 admin/options.php:1537
+#: admin/options.php:1579
+msgid "Lowercase"
+msgstr "حروف کوچک"
+
+#: admin/options.php:1172 admin/options.php:1230 admin/options.php:1272
+#: admin/options.php:1311 admin/options.php:1367 admin/options.php:1412
+#: admin/options.php:1454 admin/options.php:1496 admin/options.php:1545
+#: admin/options.php:1587
+msgid "Google/Custom Font Override"
+msgstr ""
+
+#: admin/options.php:1177 admin/options.php:1316 admin/options.php:1372
+#: admin/options.php:1501 admin/options.php:1592
+msgid "Line Height"
+msgstr "ارتفاع خط‌"
+
+#: admin/options.php:1184 admin/options.php:1323 admin/options.php:1599
+msgid "Spacing"
+msgstr "فاصله گذاری"
+
+#: admin/options.php:1192
+msgid ""
+"The fonts under the <em>Preferred Theme Fonts</em> list are recommended "
+"because they have all the font weights used throughout the theme."
+msgstr ""
+
+#: admin/options.php:1241
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+#: admin/options.php:1280
+msgid "Widget Title"
+msgstr "عنوان ابزارک"
+
+#: admin/options.php:1336
+msgid "Widget Content"
+msgstr "محتوا ابزارک"
+
+#: admin/options.php:1381
+msgid "Blog Post Titles"
+msgstr "عنوان نوشته وبلاگ"
+
+#: admin/options.php:1423
+msgid "Blog Post metas"
+msgstr "متاهای نوشته وبلاگ"
+
+#: admin/options.php:1465
+msgid "Single Post Titles"
+msgstr "عنوان نوشته تکی"
+
+#: admin/options.php:1514
+msgid "Single Post Metas"
+msgstr "متاهای نوشته تکی"
+
+#: admin/options.php:1556
+msgid "Headings"
+msgstr "سربرگ ها"
+
+#: admin/options.php:1608
+msgid "Text Alignment"
+msgstr "ترازبندی متن"
+
+#: admin/options.php:1610
+msgid "Justify"
+msgstr "Justify"
+
+#: admin/options.php:1616
+msgid "Paragraph Indentation"
+msgstr "پاراگراف"
+
+#: admin/options.php:1626
+msgid "Breadcrumbs"
+msgstr "نقشه راه"
+
+#: admin/options.php:1633
+msgid "Numbered Pagination"
+msgstr "شماره صفحه بندی"
+
+#: admin/options.php:1640
+msgid "Single Post Prev/Next Navigation"
+msgstr "ناوبری قبلی / بعدی نوشته تکی"
+
+#: admin/options.php:1642
+msgid "Absolute"
+msgstr "مطلق"
+
+#: admin/options.php:1642 admin/options.php:2064 admin/options.php:2073
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: admin/options.php:1648
+msgid "Page/Category Titles"
+msgstr "عنوان های برگه/دسته بندی"
+
+#: admin/options.php:1650
+msgid "Always Visible"
+msgstr "همیشه قابل نمایش"
+
+#: admin/options.php:1650
+msgid "Hide on Pages"
+msgstr "پنهان کردن در برگه ها"
+
+#: admin/options.php:1650
+msgid "Hide on Categories"
+msgstr "پنهان کردن در دسته بندی ها"
+
+#: admin/options.php:1650
+msgid "Always Hidden"
+msgstr "همیشه پنهان کردن"
+
+#: admin/options.php:1656
+msgid "Back to Top Button"
+msgstr "دکمه بازگشت به بالا"
+
+#: admin/options.php:1658
+msgid "Bottom of page"
+msgstr "پایین برگه"
+
+#: admin/options.php:1658
+msgid "In footer"
+msgstr "در پاورقی"
+
+#: admin/options.php:1664
+msgid "Tables Style"
+msgstr "سبک جداول"
+
+#: admin/options.php:1666
+msgid "No border"
+msgstr "بدون حاشیه"
+
+#: admin/options.php:1666
+msgid "Clean"
+msgstr "پاک"
+
+#: admin/options.php:1666
+msgid "Stripped"
+msgstr ""
+
+#: admin/options.php:1666
+msgid "Bordered"
+msgstr ""
+
+#: admin/options.php:1672
+msgid "Tags Cloud Appearance"
+msgstr "نمایش برچسب های ابر"
+
+#: admin/options.php:1674
+msgid "Size Emphasis"
+msgstr "اندازه تاکید"
+
+#: admin/options.php:1674
+msgid "Uniform Boxes"
+msgstr "جعبه های غیر رسمی"
+
+#: admin/options.php:1680
+msgid "Custom Footer Text"
+msgstr "متن فوتر سفارشی"
+
+#: admin/options.php:1681
+msgid ""
+"Insert custom text or basic HTML code that will appear in your footer. <br /"
+"> You can use HTML to insert links, images and special characters."
+msgstr ""
+"متن سفارشی یا کد HTML پایه را که در بالا و پایین صفحه شما ظاهر می شود قرار "
+"دهید. <br /> شما می توانید از HTML برای قرار دادن لینک ها، تصاویر و "
+"کاراکترهای خاص استفاده کنید."
+
+#: admin/options.php:1689
+msgid "Article Animation on Scroll"
+msgstr "انیمیشن مقاله هنگام اسکرول"
+
+#: admin/options.php:1691
+msgid "Fade"
+msgstr ""
+
+#: admin/options.php:1691
+msgid "Slide"
+msgstr ""
+
+#: admin/options.php:1691
+msgid "Flip Up"
+msgstr ""
+
+#: admin/options.php:1691
+msgid "Flip Down"
+msgstr ""
+
+#: admin/options.php:1700
+msgid "Add Search to Main Menu"
+msgstr "افزودن جستجو به منوی اصلی"
+
+#: admin/options.php:1706
+msgid "Add Search to Footer Menu"
+msgstr "افزودن جستجو به منوی پاورقی"
+
+#: admin/options.php:1715
+msgid "Post Images"
+msgstr "تصاویر نوشته"
+
+#: admin/options.php:1718
+msgid "No Styling"
+msgstr "بدون استابل دهی"
+
+#: admin/options.php:1722 admin/options.php:1726 admin/options.php:1730
+#: admin/options.php:1734 admin/options.php:1738
+#, php-format
+msgid "Style %d"
+msgstr "سبک %d"
+
+#: admin/options.php:1747
+msgid "Post Captions"
+msgstr "کپشن های نوشته"
+
+#: admin/options.php:1749
+msgid "Plain"
+msgstr ""
+
+#: admin/options.php:1749
+msgid "With Border"
+msgstr "با حاشیه"
+
+#: admin/options.php:1749
+msgid "With Background"
+msgstr "با پس زمینه"
+
+#: admin/options.php:1759 admin/options.php:1797
+msgid "Display Author"
+msgstr "نمایش نویسنده"
+
+#: admin/options.php:1765 admin/options.php:1803
+msgid "Display Date"
+msgstr "نمایش تاریخ"
+
+#: admin/options.php:1771 admin/options.php:1809
+msgid "Display Time"
+msgstr "نمایش زمان"
+
+#: admin/options.php:1777 admin/options.php:1815
+msgid "Display Category"
+msgstr "نمایش دسته بندی"
+
+#: admin/options.php:1783 admin/options.php:1821
+msgid "Display Tags"
+msgstr "نمایش برچسب ها"
+
+#: admin/options.php:1789 admin/options.php:1829
+msgid "Display Comments"
+msgstr "نمایش دیدگاه ها"
+
+#: admin/options.php:1790
+msgid "Choose meta information to show on posts."
+msgstr "انتخاب اطلاعات متا برای نمایش در نوشته ها."
+
+#: admin/options.php:1830
+msgid "Choose meta information to show on single posts."
+msgstr "انتخاب اطلاعات متا برای نمایش در نوشته های تکی"
+
+#: admin/options.php:1837
+msgid "Standard Posts On Homepage"
+msgstr "نوشته های اصلی در صفحه اصلی"
+
+#: admin/options.php:1839 admin/options.php:1847 admin/options.php:1855
+msgid "Full Post"
+msgstr "نوشته کامل"
+
+#: admin/options.php:1840
+msgid "Post formats always display full posts."
+msgstr "فرمت های نوشته همیشه نوشته های کامل را نمایش می دهند."
+
+#: admin/options.php:1845
+msgid "Sticky Posts on Homepage"
+msgstr "چسبان کردن نوشته ها در صفحه اصلی"
+
+#: admin/options.php:1847
+msgid "Inherit"
+msgstr "ارث بری"
+
+#: admin/options.php:1853
+msgid "Standard Posts in Categories/Archives"
+msgstr "نوشته های استاندارد در دسته بندی ها/بایگانی ها"
+
+#: admin/options.php:1864
+msgid "Excerpt Length (words)"
+msgstr "طول حلاصه (کلمه)"
+
+#: admin/options.php:1870
+msgid "Excerpt Suffix"
+msgstr "پسوند چکیده"
+
+#: admin/options.php:1876
+msgid "Continue Reading Label"
+msgstr "لیبل ادامه خواندن"
+
+#: admin/options.php:1884
+msgid "'Comments Are Closed' Text"
+msgstr "متن \"دیدگاه ها بسته شده است\""
+
+#: admin/options.php:1886
+msgid "Show"
+msgstr "نمایش"
+
+#: admin/options.php:1886
+msgid "Hide in posts"
+msgstr "پنهان کردن در نوشته ها"
+
+#: admin/options.php:1886
+msgid "Hide in pages"
+msgstr "پنهان کردن در برگه ها"
+
+#: admin/options.php:1886
+msgid "Hide everywhere"
+msgstr "پنهان کردن همه جا"
+
+#: admin/options.php:1892
+msgid "Comment Date Format"
+msgstr "فرمت تاریخ دیدگاه"
+
+#: admin/options.php:1894
+msgid "Specific"
+msgstr "خاص"
+
+#: admin/options.php:1894
+msgid "Relative"
+msgstr "نسبی"
+
+#: admin/options.php:1900
+msgid "Comment Field Label"
+msgstr "لیبل فیلد دیدگاه"
+
+#: admin/options.php:1902
+msgid "Placeholders"
+msgstr "نگه دارنده ها"
+
+#: admin/options.php:1902
+msgid "Labels"
+msgstr "برچسب ها"
+
+#: admin/options.php:1903
+msgid ""
+"Change to Default for better compatibility with comment-related plugins."
+msgstr "تغییر به پیش فرض برای سازگاری بهتر با پلاگین های مرتبط با دیدگاه."
+
+#: admin/options.php:1908
+msgid "Show Icons in Comment Fields"
+msgstr "نمایش آیکون ها در فیلدهای دیدگاه"
+
+#: admin/options.php:1918
+msgid "Comment Form Width"
+msgstr "عرض فرم دیدگاه"
+
+#: admin/options.php:1926
+msgid "Featured Images"
+msgstr "تصاویر شاخص"
+
+#: admin/options.php:1933
+msgid "Auto Select Image From Content"
+msgstr "انتخاب خودکار تصویر از محتوا"
+
+#: admin/options.php:1944
+msgid "Featured Image Height"
+msgstr "ارتفاع تصویر شاخص"
+
+#: admin/options.php:1945
+msgid "Set to 0 to disable image processing"
+msgstr "برای غیرفعال کردن پردازش تصویر روی 0 تنظیم کنید"
+
+#: admin/options.php:1960
+msgid "Featured Image Behaviour"
+msgstr "رفتار تصویر شاخص"
+
+#: admin/options.php:1961
+msgid ""
+"<strong>Contained</strong> will scale depending on the viewed "
+"resolution<br><strong>Cropped</strong> will try to keep the configured "
+"height."
+msgstr ""
+"<strong>مشمول</strong> بسته به وضوح مشاهده شده، مقیاس را اندازه می گیرد "
+"<br><strong>بریده شده</strong>  سعی خواهد کرد ارتفاع پیکربندی را حفظ کند."
+
+#: admin/options.php:1966
+msgid "Featured Image Crop Position"
+msgstr "موقعیت تصویر شاخص بریده شده"
+
+#: admin/options.php:1968
+msgid "Left Top"
+msgstr "بالا چپ "
+
+#: admin/options.php:1968
+msgid "Left Center"
+msgstr "چپ وسط"
+
+#: admin/options.php:1968
+msgid "Left Bottom"
+msgstr "چپ پایین"
+
+#: admin/options.php:1968
+msgid "Right Top"
+msgstr "راست بالا"
+
+#: admin/options.php:1968
+msgid "Right Center"
+msgstr "راست وسط"
+
+#: admin/options.php:1968
+msgid "Right Bottom"
+msgstr "راست پایین"
+
+#: admin/options.php:1968
+msgid "Center Top"
+msgstr "مرکز بالا"
+
+#: admin/options.php:1968
+msgid "Center Center"
+msgstr "مرکز مرکز"
+
+#: admin/options.php:1968
+msgid "Center Bottom"
+msgstr "مرکز پایین"
+
+#: admin/options.php:1984
+msgid "Use Featured Images in Header"
+msgstr "استفاده از تصویر شاخص در سربرگ"
+
+#: admin/options.php:1994
+msgid "Display in Side Menu"
+msgstr "نمایش در منو کناری"
+
+#: admin/options.php:2000
+msgid "Display in Footer"
+msgstr "نمایش در پاورقی"
+
+#: admin/options.php:2006
+msgid "Display in Left Sidebar"
+msgstr "نمایش در ستون کناری چپ"
+
+#: admin/options.php:2012
+msgid "Display in Right Sidebar"
+msgstr "نمایش در ستون کناری راست"
+
+#: admin/options.php:2013
+#, php-format
+msgid ""
+"Select where social icons should be displayed.<br><br><strong>Social Icons "
+"are defined using the <a href=\"%1$s\" target=\"_blank\">socials menu</a></"
+"strong>. Read the <a href=\"%2$s\" target=\"_blank\">theme documentation</a> "
+"for detailed information."
+msgstr ""
+
+#: admin/options.php:2021
+msgid "Masonry"
+msgstr "شبکه ای"
+
+#: admin/options.php:2029
+msgid "JS Defer loading"
+msgstr "کد جاوا اسکریپت"
+
+#: admin/options.php:2038
+msgid "Autoscroll"
+msgstr "اسکرول خودکار"
+
+#: admin/options.php:2046
+msgid "Header image size requirements"
+msgstr "الزامات اندازه تصویر سربرگ"
+
+#: admin/options.php:2054
+msgid "Editor Styles"
+msgstr "سبک های ویرایشگر"
+
+#: admin/options.php:2062
+msgid "FitVids"
+msgstr ""
+
+#: admin/options.php:2064 admin/options.php:2073
+msgid "Enable"
+msgstr "فعالسازی"
+
+#: admin/options.php:2064
+msgid "Enable on mobiles"
+msgstr "فعالسازی در موبایل"
+
+#: admin/options.php:2071
+msgid "Preloader"
+msgstr "متن نگه دارنده"
+
+#: admin/options.php:2073
+msgid "Front Page Only"
+msgstr "فقط در ظاهر صفحه"
+
+#: admin/options.php:2074
+msgid "<br>Only use these options to troubleshoot issues."
+msgstr "<br> از این گزینه ها برای رفع مشکلات استفاده کنید."
+
+#: admin/options.php:2770
+msgid "Sidebar Left"
+msgstr "ستون کناری سمت چپ"
+
+#: admin/options.php:2777
+msgid "Sidebar Right"
+msgstr "ستون کناری سمت راست "
+
+#: admin/options.php:2785
+msgid ""
+"You can configure how many columns the footer displays from the theme options"
+msgstr ""
+"شما می توانید از تنظیمات قالب نحوه ی پیکربندی بسیاری از ستون های پاورقی را "
+"نمایش دهید."
+
+#: admin/options.php:2792
+msgid "Content Before"
+msgstr "قبل محتوا"
+
+#: admin/options.php:2799
+msgid "Content After"
+msgstr "بعد محتوا"
+
+#: admin/options.php:2813
+msgid "Top Section"
+msgstr "بخش بالا"
+
+#: admin/options.php:2814
+msgid ""
+"This widget area is interchangeable with the Top Menu through the theme "
+"options."
+msgstr ""
+"این ناحیه ابزارک با استفاده ازتنظیمات قالب با منوی بالا قابل تعویض است."
+
+#: includes/setup.php:56
+msgid "Primary Navigation"
+msgstr "ناوبری اصلی"
+
+#: includes/setup.php:57
+msgid "Side Navigation"
+msgstr "ناوبری کناری"
+
+#: includes/setup.php:59
+msgid "Footer Navigation"
+msgstr "ناوبری فوتر"
+
+#: includes/setup.php:124
+msgid "Under the bridge"
+msgstr "زیر پل"
+
+#: includes/setup.php:129
+msgid "Lights"
+msgstr "روشن"
+
+#: includes/setup.php:139
+msgid "Accent #1"
+msgstr ""
+
+#: includes/setup.php:144
+msgid "Accent #2"
+msgstr ""
+
+#: includes/setup.php:238
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: includes/core.php:202
+msgid "Back to Top"
+msgstr "برگشت به بالا"
+
+#: includes/core.php:250
+msgid "Powered by"
+msgstr "طراحی شده توسط"
+
+#: includes/core.php:253
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#. $layout_class
+#: includes/core.php:334
+msgid "Home"
+msgstr "صفحه اصلی"
+
+#. $text_home
+#: includes/core.php:335
+msgid "Archive for category"
+msgstr "بایگانی برای دسته بندی"
+
+#. $text_archive
+#: includes/core.php:336
+msgid "Search results for"
+msgstr "نتایج جستجو برای "
+
+#. $text_search
+#: includes/core.php:337
+msgid "Posts tagged"
+msgstr "نوشته های برچسب دار شده"
+
+#. $text_tag
+#: includes/core.php:338
+msgid "Articles posted by"
+msgstr "مقالات نوشته شده توسط"
+
+#. $text_404
+#: includes/core.php:340
+msgid "Post format"
+msgstr "فرمت نوشته"
+
+#. $text_format
+#: includes/core.php:341
+msgid "Page"
+msgstr "برگه"
+
+#: includes/core.php:380
+msgid "More"
+msgstr "بیشتر"
+
+#: includes/meta.php:18
+msgid "Static Page Layout"
+msgstr "طرح بندی استاتیک صفحه"
+
+#: includes/meta.php:49
+msgid "Default Theme Layout"
+msgstr "طرح بندی پیش فرض قالب"
+
+#: includes/loop.php:89
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: includes/loop.php:108
+msgid "Author"
+msgstr "نویسنده"
+
+#: includes/loop.php:112 includes/loop.php:136
+#, php-format
+msgid "View all posts by %s"
+msgstr "مشاهده همه نوشته های ارسال شده توسط  %s"
+
+#: includes/loop.php:165
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/loop.php:193
+msgid "Tagged"
+msgstr "تگ شده"
+
+#: includes/loop.php:205
+#, php-format
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+#: includes/loop.php:231
+msgid "Featured"
+msgstr "ویژه"
+
+#: includes/loop.php:285
+msgid "Older posts"
+msgstr "نوشته های قدیمی"
+
+#: includes/loop.php:289
+msgid "Newer posts"
+msgstr "نوشته های جدید"
+
+#: includes/comments.php:25
+msgid "Pingback: "
+msgstr "بازتاب:"
+
+#: includes/comments.php:25 includes/comments.php:59
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#. 1: date, 2: time
+#: includes/comments.php:51
+msgid "at"
+msgstr "در"
+
+#: includes/comments.php:54
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%1$s ago"
+msgstr "%1$s قبل"
+
+#: includes/comments.php:64
+msgid "Reply"
+msgstr "پاسخ "
+
+#: includes/comments.php:73
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار تایید است."
+
+#: includes/comments.php:92
+#, php-format
+msgid "Comments on \"%s\""
+msgstr "دیدگاه \"%s\""
+
+#: includes/comments.php:94
+msgid "0"
+msgstr "0"
+
+#: includes/comments.php:95 includes/comments.php:96
+#, php-format
+msgid "1"
+msgid_plural "%1$s"
+msgstr[0] ""
+
+#: includes/comments.php:111
+msgid "Jump to comments"
+msgstr "پرش به دیدگاه ها"
+
+#: includes/comments.php:114
+msgid "Leave a comment"
+msgstr "یک دیدگاه بگذارید"
+
+#: includes/comments.php:144 includes/comments.php:145
+msgid "Name"
+msgstr "نام"
+
+#: includes/comments.php:148 includes/comments.php:149
+msgid "Email"
+msgstr "ایمیل"
+
+#: includes/comments.php:152 includes/comments.php:153
+msgid "Website"
+msgstr "وب سایت"
+
+#: includes/comments.php:157
+msgid ""
+"Save my name, email, and site URL in my browser for next time I post a "
+"comment."
+msgstr ""
+"برای دفعه بعد که یک نظر ارسال میکنم نام کاربری، ایمیل و آدرس سایت من را در "
+"مرورگر خود ذخیره کنید."
+
+#: includes/comments.php:166 includes/comments.php:167
+msgctxt "noun"
+msgid "Comment"
+msgstr "دیدگاه"
+
+#. Name of the theme
+msgid "Esotera"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Colorful, clean and beautifully animated, Esotera is a highly customizable, "
+"multi-purpose responsive theme that’s perfect for your blog, portfolio, "
+"photography or business website. Demo: https://demos.cryoutcreations.eu/wp/"
+"esotera"
+msgstr ""
+"قالب ایسوترا یک قالب تمیز، قدرتمند، کاملا واکنشگرا، زیبا و با سفارشی سازی "
+"آسان است که مناسب وبلاگ، نمونه کارها، عکاسی و یا وب سایت کسب و کار شماست."
+
+#. URI of the theme
+msgid "http://www.cryoutcreations.eu/wordpress-themes/esotera"
+msgstr ""
+
+#. Author of the theme
+msgid "Cryout Creations"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.cryoutcreations.eu"
+msgstr ""

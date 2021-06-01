@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery.post(ajaxurl,{action:"cryout_feed_action"},function(t){jQuery("#cryout-news .inside").html(t)}),jQuery("#cryout_reset_defaults").click(function(){if(!confirm(cryout_admin_settings.reset_confirmation))return!1})});
